@@ -37,10 +37,4 @@ This is a Java program that calculates the GPA (Grade Point Average) and CGPA (C
 - Make sure to compile and run the program using a Java compiler or IDE.
 - The program provides step-by-step instructions for data input and displays student information accordingly.
 
-## License
 
-This project is licensed under the ownership of Farwah Hamid.
-
-## Contact
-
-For further queries contact farwah.hamid21@gmail.com
